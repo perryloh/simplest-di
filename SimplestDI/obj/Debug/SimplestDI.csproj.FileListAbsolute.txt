@@ -1,5 +1,0 @@
-C:\Playground\SimplestDI\SimplestDI\bin\Debug\SimplestDI.dll
-C:\Playground\SimplestDI\SimplestDI\bin\Debug\SimplestDI.pdb
-C:\Playground\SimplestDI\SimplestDI\obj\Debug\SimplestDI.csprojResolveAssemblyReference.cache
-C:\Playground\SimplestDI\SimplestDI\obj\Debug\SimplestDI.dll
-C:\Playground\SimplestDI\SimplestDI\obj\Debug\SimplestDI.pdb
