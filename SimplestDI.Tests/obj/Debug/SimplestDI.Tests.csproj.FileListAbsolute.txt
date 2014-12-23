@@ -1,0 +1,7 @@
+C:\Playground\SimplestDI\SimplestDI.Tests\bin\Debug\SimplestDI.Tests.dll
+C:\Playground\SimplestDI\SimplestDI.Tests\bin\Debug\SimplestDI.Tests.pdb
+C:\Playground\SimplestDI\SimplestDI.Tests\bin\Debug\SimplestDI.dll
+C:\Playground\SimplestDI\SimplestDI.Tests\bin\Debug\SimplestDI.pdb
+C:\Playground\SimplestDI\SimplestDI.Tests\obj\Debug\SimplestDI.Tests.csprojResolveAssemblyReference.cache
+C:\Playground\SimplestDI\SimplestDI.Tests\obj\Debug\SimplestDI.Tests.dll
+C:\Playground\SimplestDI\SimplestDI.Tests\obj\Debug\SimplestDI.Tests.pdb
